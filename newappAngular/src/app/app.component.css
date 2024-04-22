@@ -1,0 +1,8 @@
+/* app.component.css */
+.display-2 {
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    background-color:rgb(2, 30, 53);
+    padding: 20px 0;
+}
